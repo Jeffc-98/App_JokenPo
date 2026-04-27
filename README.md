@@ -1,4 +1,4 @@
-# 🕹️ Jokenpô - Meu Primeiro App em Flutter
+# 🕹️ Jokenpô 
 
 Seja bem-vindo ao meu repositório! Este é um projeto simples de **Jokenpô (Pedra, Papel ou Tesoura)** que desenvolvi para colocar em prática os fundamentos da linguagem **Dart** e do framework **Flutter**.
 
