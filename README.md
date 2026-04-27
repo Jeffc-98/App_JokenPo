@@ -1,17 +1,22 @@
-# jakenpo_v2
+# 🕹️ Jokenpô - Meu Primeiro App em Flutter
 
-A new Flutter project.
+Seja bem-vindo ao meu repositório! Este é um projeto simples de **Jokenpô (Pedra, Papel ou Tesoura)** que desenvolvi para colocar em prática os fundamentos da linguagem **Dart** e do framework **Flutter**.
 
-## Getting Started
+# Sobre o Projeto
+O objetivo aqui não foi criar o jogo mais complexo do mundo, mas sim entender como as coisas funcionam "debaixo do capô". Foi um exercício excelente para treinar:
 
-This project is a starting point for a Flutter application.
+- **Lógica de Programação:** Estruturas condicionais (`if`, `else if`, `switch`) para decidir o vencedor.
+- **Gerenciamento de Estado:** Uso do `setState` para atualizar a tela em tempo real.
+- **Interface de Usuário (UI):** Organização de componentes com `Column`, `Row` e `Padding`.
+- **Interatividade:** Capturar cliques do usuário com o `GestureDetector`.
 
-A few resources to get you started if this is your first Flutter project:
+# O que eu aprendi?
+Neste projeto, foquei em consolidar a base. Entendi como o Flutter lida com imagens, como gerar números aleatórios com a biblioteca `dart:math` e como organizar o código de forma que ele seja legível e funcional.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+# Tecnologias Utilizadas
+- **Dart** (Linguagem base)
+- **Flutter** (Framework)
+- **VS Code** (Minha IDE de escolha)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+🔹 *Projeto desenvolvido por  **Jefferson Corrêa**, estudante de Engenharia de Software focado em evoluir no ecossistema Mobile.*
