@@ -13,8 +13,6 @@ class _JogoState extends State<Jogo> {
   var _mensagem = "Escolha uma opção abaixo!";
 
   void _opcqoSelecionada(String escolhaUsuario) {
-    print("Opção selecionada: $escolhaUsuario");
-
     var opcao = ["Pedra", "Papel", "Tesoura"];
     var numero = Random().nextInt(3);
     var escolhaApp = opcao[numero];
@@ -54,9 +52,6 @@ class _JogoState extends State<Jogo> {
         _mensagem = "Empatamos!";
       });
     }
-
-    print("Escolha do App: $escolhaApp");
-    print("Escolha do Usuário: $escolhaUsuario");
   }
 
   @override
